@@ -1,0 +1,8 @@
+C:\Users\lulem\Documents\proyectoFinalDvo\LicenciasAPI\obj\Debug\net7.0\LicenciasAPI.csproj.AssemblyReference.cache
+C:\Users\lulem\Documents\proyectoFinalDvo\LicenciasAPI\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\lulem\Documents\proyectoFinalDvo\LicenciasAPI\obj\Debug\net7.0\LicenciasAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lulem\Documents\proyectoFinalDvo\LicenciasAPI\obj\Debug\net7.0\LicenciasAPI.AssemblyInfoInputs.cache
+C:\Users\lulem\Documents\proyectoFinalDvo\LicenciasAPI\obj\Debug\net7.0\LicenciasAPI.AssemblyInfo.cs
+C:\Users\lulem\Documents\proyectoFinalDvo\LicenciasAPI\obj\Debug\net7.0\LicenciasAPI.csproj.CoreCompileInputs.cache
+C:\Users\lulem\Documents\proyectoFinalDvo\LicenciasAPI\obj\Debug\net7.0\LicenciasAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lulem\Documents\proyectoFinalDvo\LicenciasAPI\obj\Debug\net7.0\LicenciasAPI.MvcApplicationPartsAssemblyInfo.cache
